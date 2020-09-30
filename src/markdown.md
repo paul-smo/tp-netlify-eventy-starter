@@ -1,10 +1,10 @@
 ---
 layout: page
-title: seconde page
+title: bonjour
 eleventyNavigation:
   key: Mammals
 ---
 
-bonjour à Eleventy starter llalalala.
+ llalalala.
 
 ce site est génial
